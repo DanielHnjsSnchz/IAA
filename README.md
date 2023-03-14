@@ -11,6 +11,7 @@ En este repositorio se almacena el proyecto final de la asignatura de IS (Ingeni
 2. [Colaboradores](#Colaboradores)
 3. [Tecnología](#Tecnología)
 4. [Instalación y ejecución](#Instalacion)
+5. [Graficas comparativas y conclusiones](#graficas)
 
 ## Información General
 ***
